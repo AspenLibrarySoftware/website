@@ -1,0 +1,171 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  levels: three
+  folders:
+
+  - title: Community
+    output: web, pdf
+    folderitems:
+
+    - title: Community
+      output: web, pdf
+      url: /community.html
+
+    - title: Code of Conduct
+      output: web, pdf
+      url: /code_of_conduct.html
+
+    - title: Calendar
+      output: web, pdf
+      url: /calendar.html
+
+    - title: Meetings and Groups
+      output: web, pdf
+      url: /meetings_and_groups.html
+
+    - title: Community Connections
+      output: web, pdf
+      url: /connections.html
+    
+    - title: Vendors and Support Companies
+      output: web, pdf
+      url: /vendors_and_support.html
+    
+    - title: Libraries using Aspen
+      output: web, pdf 
+      url: /aspen_libraries.html
+
+  - title: Aspen Software
+    output: web, pdf
+    folderitems:  
+
+    - title: Aspen Software
+      output: web
+      url: /software_overview.html
+
+    - title: Aspen Discovery
+      output: web
+      url: /discovery.html
+
+    - title: Aspen LiDA
+      output: web
+      url: /lida.html 
+
+    - title: Aspen Mobile
+      output: web
+      url: /aspen_mobile.html
+
+    - title: Help Center
+      output: web
+      external_url: https://aspen-discovery.atlassian.net/wiki/spaces/Help/overview
+
+    - title: Jira
+      output: web
+      external_url: https://aspen-discovery.atlassian.net/jira/software/c/projects/DIS/summary
+
+    - title: Github
+      output: web
+      external_url: https://github.com/Aspen-Discovery
+
+
+  - title: Foundation
+    output: web, pdf
+    folderitems: 
+
+    - title: Foundation 
+      output: web, pdf
+      url: /foundation.html
+
+    - title: Bylawas
+      output: web, pdf
+      url: /bylaws.html
+
+    - title: Officers and committees
+      output: web, pdf
+      url: /officers_committees.html  
+
+      subfolders:
+      - title: Current Officers
+        output: web, pdf
+        subfolderitems:
+
+        - title: Bryan Jones (President)
+          output: web, pdf
+          url: /bryan_jones.html
+
+        - title: Sierra Chastain-Rittue (Vice President)
+          output: web, pdf
+          url: /sierra_chastain_rittue.html
+
+        - title: Bob Bennhoff (Treasurer)
+          output: web, pdf
+          url: /bob_bennhoff.html
+
+        - title: Linda Kramer (Secretary)
+          output: web, pdf
+          url: /linda_kramer.html
+
+        - title: Daniel Barden
+          output: web, pdf
+          url: /daniel_barden.html
+
+        - title: Kris Becker
+          output: web, pdf
+          url: /kris_becker.html 
+
+        - title: Melissa Brenneman
+          output: web, pdf
+          url: /melissa_brenneman.html
+
+        - title: Desiree Saunders
+          output: web, pdf
+          url: /desiree_saunders.html
+
+        - title: George Williams
+          output: web, pdf
+          url: /george_williams.html
+
+    - title: Technical committee
+      output: web, pdf
+      url: /technical_committee.html
+
+    - title: Sponsors
+      output: web, pdf
+      url: /sponsors.html
+
+    - title: Finances
+      output: web, pdf
+      url: /finances.html
+
+    - title: Open Library Foundation
+      output: web, pdf
+      external_url: https://openlibraryfoundation.org/
+
+  - title: Conferences
+    output: web, pdf
+    folderitems: 
+
+    - title: AspenCON
+      output: web, pdf
+      url: /aspencon.html
+
+    - title: AspenCon 2026
+      output: web, pdf
+      external_url: https://community.aspendiscovery.org/AspenCon2026
+
+  - title: News and Announcements
+    output: web, pdf
+    folderitems: 
+
+    - title: News
+      output: web, pdf
+      url: /news.html
+
+    - title: News Archive
+      output: web, pdf
+      url: /news_archive.html
+
+    
+# Copyright 2021 Google LLC
