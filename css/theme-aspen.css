@@ -18,7 +18,7 @@ ul#mysidebar {
 	color: #ffffff;
 }
 
-body {background-color: #dbdbdb}
+body {background-color: #E8E8E8}
 
 .summary {
     color: #808080;
@@ -159,7 +159,7 @@ li.sidebarTitle {
 
 /* Embiggen fonts in navbar */
 .container.topnavlinks .collapse.navbar-collapse a {
-    font-size: 1.25em; 
+    font-size: 1.15em; 
     font-weight: bold; 
     line-height: 1.5em;
     padding: .25em;
@@ -198,3 +198,9 @@ li.sidebarTitle {
     align-items: center;
     justify-content: center;
 }
+
+a {
+  color: #204A6F;
+  text-decoration: none;
+
+  /* #dbdbdb */

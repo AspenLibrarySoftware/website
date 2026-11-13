@@ -62,7 +62,7 @@ topnav_dropdowns:
         #  url: 
         - title: AspenCon 2026
           external_url: https://community.aspendiscovery.org/AspenCon2026
-    - title: News and Announcements
+    - title: News & Announcements
       folderitems:
         - title: News and Announcements
           url: news.html
