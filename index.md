@@ -11,6 +11,12 @@ toc: false
 layout: homepage
 ---
 
+## Aspen Library Software Foundation
+
+Aspen Library Software Foundation (ALSF) endeavors to: (1) promote, support, and advance the development of the Aspen Library Software Foundation software (Aspen Discovery, Aspen LiDA, and related projects); (2) support and facilitate the growth of the international community of Aspen Library Software users; and (3) foster and protect the ALSF’s assets. ALSF’s rights and responsibilites are defined in our Bylaws
+
+ALSF is a a proud member of Open Library Foundation (OLF). Our membership in OLF was made possible by Founding Sponsors.
+
 ## What is Aspen Library Software
 
 Aspen is a full-featured Open Source Discovery System that integrates with eContent and other third-party providers, giving your patrons comprehensive access to all of your materials in one place. Aspen combines your library catalog with e-content, digital archives, and enrichment from all major third-party providers. It also improves relevancy and ease of use, provides native reading recommendations, displays all formats of titles within one result (FRBR), and much more. Aspen was created to give users an improved experience over other Discovery systems with less impact on library budgets.
@@ -25,4 +31,3 @@ Aspen works with:
 * Koha
 * Evergreen
 * CarlX
-
